@@ -1,0 +1,16 @@
+.peppa {
+    background-color: rgb(255, 172, 172);
+    font-family: Verdana, 'DejaVu Sans' , sans-serif;
+  }
+  #ocean {
+    color: rgb(16, 16, 255);
+    font-size: 36px;
+  }
+  .fat {
+    font-size: 24px;
+  }
+  #nature {
+    background-color: rgb(143, 233, 143);
+    font-weight: bold;
+    font-size: 24px;
+  }
